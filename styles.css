@@ -1,0 +1,131 @@
+header {
+    background-color: #9c33ff;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px;
+    height: 20vh;
+    width: 100vw;
+    box-shadow: 0 3px 3px #666666;
+    z-index: 10;
+}
+
+a {
+    text-decoration: none;
+}
+
+header a {
+    color: #ffffff;
+    transition: 1s;
+}
+header a:hover {
+    color: #b8b8b8;
+}
+
+header span {
+    padding: 5px;
+}
+
+section.Produtos {
+    margin: 3vh auto;
+    z-index: 11;
+    display: flex;
+    flex-direction: column;
+    border-radius: 25px;
+    
+    background-color: rgb(144, 0, 228);
+    height: 60vh;
+    width: 95vw;
+}
+section.Produtos-store {
+    margin: 3vh auto;
+    z-index: 11;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    border-radius: 25px;
+    padding: 15px;
+    background-color: rgb(144, 0, 228);
+    height: 60vh;
+    width: 95vw;
+}
+
+section.Produtos-store .Cartao-produto {
+    display: flex;
+    margin: 10px;
+    flex-direction: column;
+    background-color: #fff;
+    align-items: center;
+    border-radius: 25px;
+    color: #666666;
+    width: 20vw;
+    grid-auto-flow: column;
+    height: 15vh;
+    padding: 5px 15px;
+}
+
+section.Produtos-store .Cartao-produto img{
+    width: 50px;
+    height: 100px;
+}
+section.About {
+    margin: 5vh auto;
+    z-index: 11;
+    display: flex;
+    flex-direction: column;
+    border-radius: 25px;
+    align-items: center;
+    background-color: rgb(144, 0, 228);
+    height: 55vh;
+    width: 80vw;
+    padding: 15px;
+    align-self: flex-end;
+}
+section.About p {
+    padding: 35px;
+}
+section.Produtos h2 {
+    align-self: center;
+    border-bottom: 1px solid #b8b8b8;
+    padding: 5px;
+}
+
+section.Produtos div {
+    display: flex;
+    padding: 5px 15px;
+    justify-content: space-between;
+}
+
+div.Marketing {
+    display: flex;
+    flex-direction: column;
+    width: 30vw;
+    height: 50vh;
+    padding: 5px;
+}
+
+section.Produtos div img{
+    z-index: 10;
+    width: 40vw;
+    height: 60vh;
+}
+
+footer {
+    z-index: 8;
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    background-color: #7525c0;
+    width: 100vw;
+    height: 15vh;
+    padding: 10px;
+    justify-content: space-between;
+    align-items: flex-end; 
+    font: 700 15px Roboto;
+}
+footer section.Descricao {
+    align-self: center; 
+}
