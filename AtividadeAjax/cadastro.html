@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./css/global.css">
+    <link rel="stylesheet" href="./css/cadastro.css">
+
+
+    <title>Cadastro de Funcionario</title>
+</head>
+<body>
+    <header>
+        <h1>Irwing's escritorio de contratação</h1>        
+        <nav>
+            <span>
+                <a href="index.html">Home</a>
+            </span>
+            <span>
+                <a class="active" href="cadastro.html">Cadastro</a>
+            </span>
+            <span>
+                <a href="funcionarios.html">Funcionarios</a>
+            </span>
+        </nav>
+    </header>
+    <section>
+        <h2>Informações do funcionario:</h2>
+        <form>
+            <div class="div-funcionario">
+                <label for="nome">Nome</label>
+                <input type="text" id="nome" name="nome">
+                <br />
+                <label for="telefone">Telefone</label>
+                <input type="text" id="telefone" name="telefone">
+                <br />
+                <label for="salario">Salario</label>
+                <input type="text" id="salario" name="salario">
+                <br />
+                <span id="aviso-salario" class="aviso">Necessário declarar imposto de renda</span>
+                <br />
+                <label for="estadocivil">Estado Civil</label>
+                <select name="estadocivil" id="estadocivil">
+                    <option value="solteiro">Solteiro</option>
+                    <option value="casado">Casado</option>
+                </select>            
+                <br />
+                <label for="idade">Idade</label>
+                <input type="text" id="idade" name="idade">
+                <br />
+                <span id="aviso-idade" class="aviso">Não é permitido o cadastro</span>
+                <br />
+            </div>
+            <h3>Endereço:</h3>
+            <div class="div-endereco">
+                <label for="cep">CEP</label>
+                <input type="text" id="cep" name="cep">
+                <br />
+                <label for="logradouro">Logradouro</label>
+                <input type="text" id="logradouro" name="logradouro">
+                <br />
+                <label for="complemento">Complemento</label>
+                <input type="text" id="complemento" name="complemento">
+                <br />
+                <label for="bairro">Bairro</label>
+                <input type="text" id="bairro" name="bairro">
+                <br />
+                <label for="localidade">Localidade</label>
+                <input type="text" id="localidade" name="localidade">
+                <br />
+                <label for="uf">UF</label>
+                <input type="text" id="uf" name="uf">
+                <br />
+            </div>
+            <button id="register">Cadastrar</button>
+        </form>
+    </section>
+    <footer>        
+        <p>5by5 Atividade JS+CSS+HTML - Irwing Testone</p>        
+    </footer>
+    <script src="javascript/cadastro.js"></script>
+</body>
+</html>

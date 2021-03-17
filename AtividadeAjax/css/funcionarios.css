@@ -1,0 +1,24 @@
+.funcionarios {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 15px;    
+    justify-content: space-between;
+    
+}
+
+.funcionario {
+    border: 1px solid #550044;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 5px;
+    display: flex;
+    
+    justify-content: space-between;
+}
+.funcionario div {
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
