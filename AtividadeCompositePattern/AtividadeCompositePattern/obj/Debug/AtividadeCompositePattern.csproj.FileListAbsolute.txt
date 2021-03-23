@@ -1,0 +1,12 @@
+C:\Users\Irwilha\Documents\LearnSpace\AtividadesHtml\AtividadeCompositePattern\AtividadeCompositePattern\bin\Debug\AtividadeCompositePattern.exe.config
+C:\Users\Irwilha\Documents\LearnSpace\AtividadesHtml\AtividadeCompositePattern\AtividadeCompositePattern\bin\Debug\AtividadeCompositePattern.exe
+C:\Users\Irwilha\Documents\LearnSpace\AtividadesHtml\AtividadeCompositePattern\AtividadeCompositePattern\bin\Debug\AtividadeCompositePattern.pdb
+C:\Users\Irwilha\Documents\LearnSpace\AtividadesHtml\AtividadeCompositePattern\AtividadeCompositePattern\bin\Debug\Composite.dll
+C:\Users\Irwilha\Documents\LearnSpace\AtividadesHtml\AtividadeCompositePattern\AtividadeCompositePattern\bin\Debug\Composite.pdb
+C:\Users\Irwilha\Documents\LearnSpace\AtividadesHtml\AtividadeCompositePattern\AtividadeCompositePattern\obj\Debug\AtividadeCompositePattern.csprojAssemblyReference.cache
+C:\Users\Irwilha\Documents\LearnSpace\AtividadesHtml\AtividadeCompositePattern\AtividadeCompositePattern\obj\Debug\AtividadeCompositePattern.csproj.CoreCompileInputs.cache
+C:\Users\Irwilha\Documents\LearnSpace\AtividadesHtml\AtividadeCompositePattern\AtividadeCompositePattern\obj\Debug\AtividadeCompositePattern.csproj.CopyComplete
+C:\Users\Irwilha\Documents\LearnSpace\AtividadesHtml\AtividadeCompositePattern\AtividadeCompositePattern\obj\Debug\AtividadeCompositePattern.exe
+C:\Users\Irwilha\Documents\LearnSpace\AtividadesHtml\AtividadeCompositePattern\AtividadeCompositePattern\obj\Debug\AtividadeCompositePattern.pdb
+C:\Users\Irwilha\Documents\LearnSpace\AtividadesHtml\AtividadeCompositePattern\AtividadeCompositePattern\bin\Debug\FamilyComposite.dll
+C:\Users\Irwilha\Documents\LearnSpace\AtividadesHtml\AtividadeCompositePattern\AtividadeCompositePattern\bin\Debug\FamilyComposite.pdb

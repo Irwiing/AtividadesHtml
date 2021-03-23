@@ -1,0 +1,6 @@
+C:\Users\Irwilha\Documents\LearnSpace\AtividadesHtml\AtividadeCompositePattern\FamilyComposite\bin\Debug\FamilyComposite.dll
+C:\Users\Irwilha\Documents\LearnSpace\AtividadesHtml\AtividadeCompositePattern\FamilyComposite\bin\Debug\FamilyComposite.pdb
+C:\Users\Irwilha\Documents\LearnSpace\AtividadesHtml\AtividadeCompositePattern\FamilyComposite\obj\Debug\FamilyComposite.csprojAssemblyReference.cache
+C:\Users\Irwilha\Documents\LearnSpace\AtividadesHtml\AtividadeCompositePattern\FamilyComposite\obj\Debug\FamilyComposite.csproj.CoreCompileInputs.cache
+C:\Users\Irwilha\Documents\LearnSpace\AtividadesHtml\AtividadeCompositePattern\FamilyComposite\obj\Debug\FamilyComposite.dll
+C:\Users\Irwilha\Documents\LearnSpace\AtividadesHtml\AtividadeCompositePattern\FamilyComposite\obj\Debug\FamilyComposite.pdb

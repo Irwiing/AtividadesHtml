@@ -1,0 +1,11 @@
+C:\Users\Irwilha\Documents\LearnSpace\projWebOO\Model\bin\Debug\Model.dll
+C:\Users\Irwilha\Documents\LearnSpace\projWebOO\Model\bin\Debug\Model.pdb
+C:\Users\Irwilha\Documents\LearnSpace\projWebOO\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\Irwilha\Documents\LearnSpace\projWebOO\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Irwilha\Documents\LearnSpace\projWebOO\Model\obj\Debug\Model.dll
+C:\Users\Irwilha\Documents\LearnSpace\projWebOO\Model\obj\Debug\Model.pdb
+C:\Users\Irwilha\Documents\LearnSpace\AtividadeMVC\AtividadeMVC\Model\bin\Debug\Model.dll
+C:\Users\Irwilha\Documents\LearnSpace\AtividadeMVC\AtividadeMVC\Model\bin\Debug\Model.pdb
+C:\Users\Irwilha\Documents\LearnSpace\AtividadeMVC\AtividadeMVC\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\Irwilha\Documents\LearnSpace\AtividadeMVC\AtividadeMVC\Model\obj\Debug\Model.dll
+C:\Users\Irwilha\Documents\LearnSpace\AtividadeMVC\AtividadeMVC\Model\obj\Debug\Model.pdb
