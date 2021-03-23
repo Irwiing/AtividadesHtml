@@ -1,14 +1,13 @@
 window.addEventListener('load', () => {
     let obj = Object.keys(localStorage)
-    console.log(obj)
+    
     const data = []
     for (const key in obj) {
         data.push(JSON.parse(localStorage.getItem(obj[key])))
-        console.log(data)
     }
     const html = document.getElementById("funcionarios")
     let htmlContent = ""
-    console.log(html)
+    
     data.forEach(funcionario => {
         htmlContent = htmlContent + `
         <div class="funcionario">

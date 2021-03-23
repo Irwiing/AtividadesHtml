@@ -12,6 +12,7 @@ body {
 body, input, button, textarea, select {
     font: 400 18px Roboto, sans-serif;
 }
+
 header {
     z-index: 9;
     background-color: #7525c0;
